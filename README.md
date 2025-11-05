@@ -34,9 +34,9 @@ Top 2-3 Transportation & Smart Mobility Ideas:
           Target Users: Drivers who want to reduce drive time.
 
 Finalized Product Idea:
-      Parking Finder App:
-          Problem: Drivers waste time searching for parking.
-          Idea: AI recommends available parking spots in real time.
-          AI Approach: Image recognition from cameras to detect open parking spots
-          Target Users: City drivers, shoppers, event attendees, etc.  
+  Parking Finder App:
+    Problem: Drivers waste time searching for parking.
+    Idea: AI recommends available parking spots in real time.
+    AI Approach: Image recognition from cameras to detect open parking spots
+    Target Users: City drivers, shoppers, event attendees, etc.  
   
