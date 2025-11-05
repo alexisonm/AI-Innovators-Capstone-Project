@@ -30,5 +30,5 @@ Smart Parking Finder - an AI powered app that helps drivers locate available par
 ### How AI Will Address the Problem
 The system uses image recognition from nearby (parking lot and street) cameras to locate the parking spots. 
 
-## Initial Product Concept
+### Initial Product Concept
 *Mobile App Dashboard: Showing available parking sport nearby...
