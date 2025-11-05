@@ -22,7 +22,7 @@ Parking Finder App:
 ## Smart Parking Finder
 
 ### Problem Statement
-Finding parking in bust areas is time-consuming and stressful
+Finding parking in busy areas is time-consuming and stressful
 
 ### Product Idea 
 Smart Parking Finder - an AI powered app that helps drivers locate available parking spots near them in real time. 
