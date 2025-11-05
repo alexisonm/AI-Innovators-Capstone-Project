@@ -3,11 +3,11 @@
 Group Charter:
 
   Roles:
-    - Project Manager:
-    - Data Scientist / ML Engineer:
-    - AI Ethicist / Responsible AI Lead: Alexis Onmanivong
-    - Systems Analyst / Product Designer:
-    - Data Engineer or Developer: 
+    * Project Manager:
+    * Data Scientist / ML Engineer:
+    * AI Ethicist / Responsible AI Lead: Alexis Onmanivong
+    * Systems Analyst / Product Designer:
+    * Data Engineer or Developer: 
 
   Meeting Schedule:
       Monday, Wednesday, Friday at 3:00pm on Teams
