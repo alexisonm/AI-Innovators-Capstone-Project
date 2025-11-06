@@ -7,7 +7,7 @@ Roles:
   - Data Scientist / ML Engineer: Gursimranjit Singh
   - AI Ethicist / Responsible AI Lead: Alexis Onmanivong
   - Systems Analyst / Product Designer: Gursimranjit Singh
-  - Data Engineer or Developer: 
+  - Data Engineer or Developer: Danny Lint
 
   Meeting Schedule:
       Monday, Wednesday, Friday at 3:00pm on Teams
