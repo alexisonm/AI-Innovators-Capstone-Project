@@ -3,7 +3,7 @@
 Group Charter:
 
 Roles:
-  - Project Manager:
+  - Project Manager: Alexis Onmanivong
   - Data Scientist / ML Engineer: Gursimranjit Singh
   - AI Ethicist / Responsible AI Lead: Alexis Onmanivong
   - Systems Analyst / Product Designer: Gursimranjit Singh
