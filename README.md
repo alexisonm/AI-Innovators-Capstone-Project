@@ -35,7 +35,7 @@ The system uses image recognition from nearby (parking lot and street) cameras t
 
 ## Reponsible AI & user-centered design
 
-###Ethical concerns
+### Ethical concerns
 - Privacy: No personal or identifiable data is collected such as license plates or faces. 
 - Bias & Fairness: Predictions should work fairly across all neighborhoods, not favoring high-traffic or low-traffic areas.
 
