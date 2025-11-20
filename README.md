@@ -32,3 +32,26 @@ The system uses image recognition from nearby (parking lot and street) cameras t
 
 ### Initial Product Concept
 *Mobile App Dashboard: Showing available parking sport nearby...
+
+## Reponsible AI & user-centered design
+
+###Ethical concerns
+- Privacy: No personal or identifiable data is collected such as license plates or faces. 
+- Bias & Fairness: Predictions should work fairly across all neighborhoods, not favoring high-traffic or low-traffic areas.
+
+### Target Market:
+- City drivers looking for convenient parking
+- Event-goers searching for parking spots near their venue
+
+### User Needs:
+- Quickly locate available parking spots
+- Avoid wasting time looking for available spots
+- Get real-time predictions for peak times of available spots.
+
+### User Centered Design:
+- Simple user interface
+- Notification options for open parking spots
+- A map to locate the parking spots
+
+## Ethical Use Statement
+This app will be deployed responsibly to help drivers find available and efficient parking, while protecting user privacy. It avoids collecting personal identifiers and provides fair and unbaised recommendations for all areas. 
