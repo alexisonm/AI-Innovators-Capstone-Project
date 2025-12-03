@@ -1,6 +1,6 @@
 # AI-Innovators-Capstone-Project
 
-Group Charter:
+Group Charter: 
 
 Roles:
   - Project Manager: Alexis Onmanivong
