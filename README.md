@@ -1,57 +1,66 @@
-# AI-Innovators-Capstone-Project
+**Smart Parking Finder **
 
-Group Charter: 
+**Project Overview**
+Finding parking in busy areas is time‑consuming and stressful. The Smart Parking Finder is an AI‑powered mobile app designed to help drivers quickly locate available parking spots in real time. By leveraging image recognition from street and parking lot cameras, the system detects open spaces and provides users with accurate, up‑to‑date information.
 
-Roles:
-  - Project Manager: Alexis Onmanivong
-  - Data Scientist / ML Engineer: Gursimranjit Singh
-  - AI Ethicist / Responsible AI Lead: Alexis Onmanivong
-  - Systems Analyst / Product Designer: Gursimranjit Singh
-  - Data Engineer or Developer: Danny Lint
+**Problem Statement**
+Drivers waste valuable time and fuel searching for parking, especially in crowded city centers and event venues. This leads to frustration, traffic congestion, and increased emissions.
 
-  Meeting Schedule:
-      Monday, Wednesday, Friday at 3:00pm on Teams
+**Solution**
+The Smart Parking Finder app uses AI to:
 
-Finalized Product Idea:
-Parking Finder App:
-  - Problem: Drivers waste time searching for parking.
-  - Idea: AI recommends available parking spots in real time.
-  - AI Approach: Image recognition from cameras to detect open parking spots
-  - Target Users: City drivers, shoppers, event attendees, etc.  
+Analyze live camera feeds with image recognition
 
-## Smart Parking Finder
+Identify open parking spots
 
-### Problem Statement
-Finding parking in busy areas is time-consuming and stressful
+Display available spaces on a simple mobile dashboard
 
-### Product Idea 
-Smart Parking Finder - an AI powered app that helps drivers locate available parking spots near them in real time. 
+Provide notifications and peak‑time predictions to help users plan ahead
 
-### How AI Will Address the Problem
-The system uses image recognition from nearby (parking lot and street) cameras to locate the parking spots. 
+**Target Users**
+City drivers navigating busy downtown areas
 
-### Initial Product Concept
-*Mobile App Dashboard: Showing available parking sport nearby...
+Shoppers looking for convenient parking near stores
 
-## Reponsible AI & user-centered design
+Event attendees searching for spots near venues
 
-### Ethical concerns
-- Privacy: No personal or identifiable data is collected such as license plates or faces. 
-- Bias & Fairness: Predictions should work fairly across all neighborhoods, not favoring high-traffic or low-traffic areas.
+**User Needs**
+Quickly locate available parking spots
 
-### Target Market:
-- City drivers looking for convenient parking
-- Event-goers searching for parking spots near their venue
+Avoid wasting time circling lots or streets
 
-### User Needs:
-- Quickly locate available parking spots
-- Avoid wasting time looking for available spots
-- Get real-time predictions for peak times of available spots.
+Receive real‑time updates and predictions for peak hours
 
-### User Centered Design:
-- Simple user interface
-- Notification options for open parking spots
-- A map to locate the parking spots
+**Features**
+Mobile App Dashboard: Map view showing nearby available spots
 
-## Ethical Use Statement
-This app will be deployed responsibly to help drivers find available and efficient parking, while protecting user privacy. It avoids collecting personal identifiers and provides fair and unbaised recommendations for all areas. 
+Notifications: Alerts when new spaces open up
+
+User‑Centered Design: Clean interface focused on simplicity and speed
+
+**Responsible AI & Ethics**
+**Privacy:** No personal or identifiable data (e.g., license plates or faces) is collected
+
+**Fairness:** Predictions are designed to work across all neighborhoods without bias toward high‑traffic or low‑traffic areas
+
+**Transparency:** Clear communication of how AI makes recommendations
+
+**Pitch Deck Structure**
+**Problem →** Parking is stressful and inefficient
+
+**Solution →** AI‑powered Smart Parking Finder app
+
+**AI Approach →** Image recognition to detect open spots
+
+**Market →** City drivers, shoppers, event‑goers
+
+**Ethics →** Privacy, fairness, and transparency by design
+
+**Team Roles**
+Project Manager / AI Ethicist: Alexis Onmanivong
+
+Data Scientist / Product Designer: Gursimranjit Singh
+
+Data Engineer / Developer: Danny Lint
+
+Meeting Schedule: Monday, Wednesday, Friday at 3:00pm (Teams)
