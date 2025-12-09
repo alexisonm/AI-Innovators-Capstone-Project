@@ -58,10 +58,10 @@ The Smart Parking Finder app uses AI to:
 
 
 **Team Roles**
-Project Manager / AI Ethicist: Alexis Onmanivong
+- Project Manager / AI Ethicist: Alexis Onmanivong
 
-Data Scientist / Product Designer: Gursimranjit Singh
+- Data Scientist / Product Designer: Gursimranjit Singh
 
-Data Engineer / Developer: Danny Lint
+- Data Engineer / Developer: Danny Lint
 
 Meeting Schedule: Monday, Wednesday, Friday at 3:00pm (Teams)
