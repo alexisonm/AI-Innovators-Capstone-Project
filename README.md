@@ -9,34 +9,34 @@ Drivers waste valuable time and fuel searching for parking, especially in crowde
 **Solution**
 The Smart Parking Finder app uses AI to:
 
-Analyze live camera feeds with image recognition
+- Analyze live camera feeds with image recognition
 
-Identify open parking spots
+- Identify open parking spots
 
-Display available spaces on a simple mobile dashboard
+- Display available spaces on a simple mobile dashboard
 
-Provide notifications and peak‑time predictions to help users plan ahead
+- Provide notifications and peak‑time predictions to help users plan ahead
 
 **Target Users**
-City drivers navigating busy downtown areas
+- City drivers navigating busy downtown areas
 
-Shoppers looking for convenient parking near stores
+- Shoppers looking for convenient parking near stores
 
-Event attendees searching for spots near venues
+- Event attendees searching for spots near venues
 
 **User Needs**
-Quickly locate available parking spots
+- Quickly locate available parking spots
 
-Avoid wasting time circling lots or streets
+- Avoid wasting time circling lots or streets
 
-Receive real‑time updates and predictions for peak hours
+- Receive real‑time updates and predictions for peak hours
 
 **Features**
-Mobile App Dashboard: Map view showing nearby available spots
+- Mobile App Dashboard: Map view showing nearby available spots
 
-Notifications: Alerts when new spaces open up
+- Notifications: Alerts when new spaces open up
 
-User‑Centered Design: Clean interface focused on simplicity and speed
+- User‑Centered Design: Clean interface focused on simplicity and speed
 
 **Responsible AI & Ethics**
 **Privacy:** No personal or identifiable data (e.g., license plates or faces) is collected
