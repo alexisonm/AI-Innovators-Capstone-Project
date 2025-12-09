@@ -1,4 +1,4 @@
-**Smart Parking Finder**
+# **Smart Parking Finder**
 
 **Project Overview**
 Finding parking in busy areas is time‑consuming and stressful. The Smart Parking Finder is an AI‑powered mobile app designed to help drivers quickly locate available parking spots in real time. By leveraging image recognition from street and parking lot cameras, the system detects open spaces and provides users with accurate, up‑to‑date information.
