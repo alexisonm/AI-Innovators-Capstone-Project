@@ -56,6 +56,7 @@ The Smart Parking Finder app uses AI to:
 
 **Ethics →** Privacy, fairness, and transparency by design
 
+
 **Team Roles**
 Project Manager / AI Ethicist: Alexis Onmanivong
 
