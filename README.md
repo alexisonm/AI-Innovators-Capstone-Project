@@ -64,4 +64,3 @@ The Smart Parking Finder app uses AI to:
 
 - Data Engineer / Developer: Danny Lint
 
-Meeting Schedule: Monday, Wednesday, Friday at 3:00pm (Teams)
